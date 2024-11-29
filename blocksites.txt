@@ -1,0 +1,13 @@
+! block banking
+||bmo.com^$document
+||cibc.com^$document
+||cibconline.cibc.com^$document
+||rbcroyalbank.com^$document
+||royalbank.com^$document
+||td.com^$document
+||authentication.td.com^$document
+
+! block consumerism
+||amazon.ca^$document
+||indiegogo.com^$document
+||kickstarter.com^$document
